@@ -159,11 +159,6 @@ function build_menu($cid) {
    				<input type="submit" value="'.get_string('print', 'block_faces').'">
 				</span>
 				</form>
-				
-
-			    </div>
-			    
-
 				</div>
 				';
 	
